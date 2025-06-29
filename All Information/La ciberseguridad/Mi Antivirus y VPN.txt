@@ -1,0 +1,20 @@
+En mis ultimas investigaciones sobre la ciberseguridad, y otros rollos que me he encontrado navegando por la web superficial.
+
+Me he encontrado un detalle, la proteccion y la seguridad informatica.  //Sabemos que para ser seguros, es recomendable preguntarse las consecuencias.
+
+(*Sin fines de lucros ni antibajos empresariales. Copyright Restringido*)
+
+=======================================================================================================================================
+El antivirus que he estado utilizando antes: 360 Total Security.            VPN: N/A
+
+Puedes ver esos resultados?, esos son los resultados de mi deficiencia de seguridad. 
+La mayoria de las personas promedio en el mundo somos conformistas, esta comprobado estadisticaente, como para saber que al comprar un
+dispositivo inteligente al que le damos uso todos los dias, se va deteriorando no solo por su capacidad sino por sus vulnerabilidades.
+
+¿El resultado?
+
+- Exposicion a ataques informaticos.
+
+//Nota importante: No voy a mencionar aqui las aplicaciones que he utilizado para navegar por la deep web. Sin embargo lo puedes encontrar 
+  la introduccion del proyecto.
+=======================================================================================================================================
